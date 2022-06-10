@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/simple-pagination/static/css/main.31d6cfe0.css",
+    "main.js": "/simple-pagination/static/js/main.3a539e44.js",
+    "index.html": "/simple-pagination/index.html",
+    "main.3a539e44.js.map": "/simple-pagination/static/js/main.3a539e44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3a539e44.js"
+  ]
+}
